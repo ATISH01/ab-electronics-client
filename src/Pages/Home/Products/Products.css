@@ -1,0 +1,11 @@
+.text-center-css{
+    height: 50px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: #06113cc3;
+    clip-path: polygon(18% 0, 100% 0%, 81% 100%, 0% 100%);
+}
+.body{
+    background-color: #bca2a2;
+}
